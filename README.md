@@ -8,7 +8,7 @@ This project contains all the code and examples I practice while learning Bootst
 This repository documents my learning journey through Bootstrap 5.  
 I am following a beginner-friendly tutorial and regularly pushing my progress here.
 
-You will find:
+## You will find:
 - Basic Bootstrap 5 setup
 - Layouts using Grid and Flex utilities
 - Components like buttons, cards, forms, navbars, and modals
