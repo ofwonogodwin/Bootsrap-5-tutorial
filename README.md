@@ -22,7 +22,7 @@ I am following a beginner-friendly tutorial and regularly pushing my progress he
 - **Bootstrap 5**
 - **Git & GitHub**
 
-## 🚀 Getting Started
+## 🚀 Getting Started2 Do you understand Custom CSS
 
 If you want to check out or run the code:
 
