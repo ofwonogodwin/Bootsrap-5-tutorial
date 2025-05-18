@@ -26,7 +26,7 @@ I am following a beginner-friendly tutorial and regularly pushing my progress he
 
 If you want to check out or run the code:
 
-## Clone the repository:
+## Clone the repository
    ```bash
    git clone https://github.com/ofwonog0dwin/bootstrap-5-tutorial.git
 
