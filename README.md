@@ -1,7 +1,7 @@
 # Bootstrap 5 Beginner Tutorial
 
 Welcome to my Bootstrap 5 beginner tutorial repository!  
-This project contains all the code and examples I practice while learning Bootstrap 5.
+This project contains all the code and examples I practice while learning Bootstrap 5..
 
 ## 📚 About
 
